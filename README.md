@@ -1,4 +1,10 @@
-### Hi there 👋
+![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) 1 / 3 trench coat raccoons found
+
+![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
+
+Currently working on FiveM projects based on [ox_core](https://github.com/overextended/ox_core) and developing my own server. 
+
+
 
 <!--
 **MIAgimir/MIAgimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
