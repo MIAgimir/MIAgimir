@@ -2,9 +2,10 @@
 
 ![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
 
+## Current Major Project:
+- [Mesa Indigo Server](https://github.com/users/MIAgimir/projects/2/views/1)
 
-
-## Current Projects:
+## Current Resource Projects:
 - [MI_Job](https://github.com/MIAgimir/MI_Ox_Job) - Ox_Core based job template for development / expansion
 - [MI_Hud](https://github.com/MIAgimir/MI_Hud) - Ox_Core based Hud style & settings
 - [MI_Network](https://github.com/MIAgimir/MI_Network) - Ox_Core based network for jobs, employment, housing, and other essentials
