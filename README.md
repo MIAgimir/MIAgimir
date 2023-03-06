@@ -2,13 +2,14 @@
 
 ![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
 
-## Current Active Projects:
-- [MI_Ox_Job](https://github.com/MIAgimir/MI_Ox_Job) - Template job for devs to expand upon
 
-## Current projects
-- [Ox_Core](https://github.com/overextended/ox_core) based FiveM Server (*private*)
-- [Ox_Inventory](https://github.com/overextended/ox_inventory) items template
 
+## Current Projects:
+- [MI_Job](https://github.com/MIAgimir/MI_Ox_Job) - Ox_Core based job template for development / expansion
+- [MI_Hud](https://github.com/MIAgimir/MI_Hud) - Ox_Core based Hud style & settings
+- [MI_Network](https://github.com/MIAgimir/MI_Network) - Ox_Core based network for jobs, employment, housing, and other essentials
+- [MI_Housing](https://github.com/MIAgimir/MI_Housing) - Ox_Core based housing system for players
+- [MI_Vehicles](https://github.com/MIAgimir/MI_Vehicles) - Ox_Core based garages, saving, & locking systems
 
 ![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) 1 / 3 trench coat raccoons found
 <!--
