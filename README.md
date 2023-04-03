@@ -6,10 +6,9 @@
 - [Mesa Indigo Server](https://github.com/users/MIAgimir/projects/2/views/1) - FiveM roleplay server
 
 ## Current Resource Projects:
-- [MI_Job](https://github.com/MIAgimir/MI_Ox_Job) - Ox_Core based job template for development / expansion
-- [MI_Hud](https://github.com/MIAgimir/MI_Hud) - Ox_Core based Hud style & settings
+- [MI_Fib](https://github.com/MIAgimir/MI_Fib) - Ox_Core based job for FIB Agents
+- [MI_Job](https://github.com/MIAgimir/MI_Job) - Ox_Core based job template for development / expansion
 - [MI_Housing](https://github.com/MIAgimir/MI_Housing) - Ox_Core based housing system for players
-- [MI_Vehicles](https://github.com/MIAgimir/MI_Vehicles) - Ox_Core based garages, saving, & locking systems
 
 ![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) 1 / 3 trench coat raccoons found
 <!--
