@@ -7,7 +7,7 @@
 
 ## Current Resource Projects:
 - [MI_Fib](https://github.com/Mesa-Indigo/MI_Fib) - Ox_Core based job for FIB Agents
-- [MI_Darkweb](https://github.com/Mesa-Indigo/MI_Darkweb) - Ox_Core based job template forcrime things
+- [MI_Darkweb](https://github.com/Mesa-Indigo/MI_Darkweb) - Ox_Core based job template for crime things
 
 ![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) 1 / 3 trench coat raccoons found
 <!--
