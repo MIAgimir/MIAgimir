@@ -2,6 +2,8 @@
 
 ![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5IBXL6)
+
 ## Current Major Project:
 - [Mesa Indigo Server](https://github.com/users/MIAgimir/projects/2/views/1) - FiveM roleplay server
 
