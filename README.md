@@ -1,4 +1,4 @@
-
+![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) *1/3 raccoons found*
 
 ![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
 
