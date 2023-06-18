@@ -4,7 +4,6 @@
 ![gibtrash](https://github.com/MIAgimir/MIAgimir/assets/116332087/2dc46180-280c-4dd8-8705-2f5e4b75c7bb)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/MIAgimir)
-![GitHub top language](https://img.shields.io/github/languages/top/MIAgimir/mi_worktemplate)
 ![Static Badge](https://img.shields.io/badge/Raccoons_found:-1_/_3-A600FF)
 
 ### Current active projects:
