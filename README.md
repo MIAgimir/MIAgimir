@@ -1,9 +1,22 @@
+### Currently creating Ox based FiveM scripts
+*Am also most definetly not one of three raccoons in a trench coat*
 
+![gibtrash](https://github.com/MIAgimir/MIAgimir/assets/116332087/2dc46180-280c-4dd8-8705-2f5e4b75c7bb)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/MIAgimir)
 ![GitHub top language](https://img.shields.io/github/languages/top/MIAgimir/mi_worktemplate)
 ![Static Badge](https://img.shields.io/badge/Raccoons_found:-1_/_3-A600FF)
 
+### Current active projects:
+* [MI_JobPack](https://github.com/MIAgimir/mi_jobpack)
+* [MI_MBAEvents](https://github.com/MIAgimir/mi_mbaevents)
+
+
+### Popular repos:
+* [Ox Inventory - Items Template](https://github.com/MIAgimir/Ox_Inventory-ItemsTemplate)
+
+
+If you want, help me stay alive by sending coffee:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5IBXL6)
 
