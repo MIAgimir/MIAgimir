@@ -6,6 +6,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/MIAgimir)
 ![Static Badge](https://img.shields.io/badge/Raccoons_found:-1_/_3-A600FF)
 
+
 ### Current active projects:
 * [MI_JobPack](https://github.com/MIAgimir/mi_jobpack)
 * [MI_MBAEvents](https://github.com/MIAgimir/mi_mbaevents)
