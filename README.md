@@ -1,11 +1,19 @@
-![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) *1/3 raccoons found*
 
-![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
+
+![GitHub User's stars](https://img.shields.io/github/stars/MIAgimir)
+![GitHub top language](https://img.shields.io/github/languages/top/MIAgimir/mi_worktemplate)
+![Static Badge](https://img.shields.io/badge/Raccoons_found:-1_/_3-A600FF)
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5IBXL6)
 
 <!--
 **MIAgimir/MIAgimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png) *1/3 raccoons found*
+
+![MIAgimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=miagimir&show_icons=true&theme=shades-of-purple) 
+
 
 - [MI_Network](https://github.com/MIAgimir/MI_Network) - Ox framework based player network
 
