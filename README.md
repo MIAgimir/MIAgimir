@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/Raccoons_found:-1_/_3-A600FF)
 
 
-### M.I. Resources Discord: [click me](https://discord.gg/nr7rBC7UCd)
+### M.I. Resources Discord: [click me](https://discord.gg/XwhBUGErxY)
 
 ### Current active projects:
 * [MI_JobPack](https://github.com/MIAgimir/mi_jobpack)
