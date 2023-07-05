@@ -10,8 +10,10 @@
 ### M.I. Resources Discord: [click me](https://discord.gg/XwhBUGErxY)
 
 ### Current active projects:
-* [MI_JobPack](https://github.com/MIAgimir/mi_jobpack)
-* [MI_MBAEvents](https://github.com/MIAgimir/mi_mbaevents)
+* [M.I. Civilian System](https://github.com/users/MIAgimir/projects/2)
+* [M.I. Emergency System](https://github.com/users/MIAgimir/projects/3)
+* [M.I. State System](https://github.com/users/MIAgimir/projects/4)
+* [M.I. Criminal System](https://github.com/users/MIAgimir/projects/5)
 
 
 ### Popular repos:
