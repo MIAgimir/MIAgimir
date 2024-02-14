@@ -1,5 +1,6 @@
-## Indie developer using Unreal Engine
+## Indie Developer & Trash Enthusiast
 https://agimir.carrd.co
 
-### UE5 Templates:
-<https://mesa-indigo.gitbook.io/untitled/>
+### Current Projects:
+- Visual Novel
+- UEFN Maps
