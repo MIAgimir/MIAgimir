@@ -1,6 +1,2 @@
-## Indie Developer & Trash Enthusiast
-https://agimir.carrd.co
-
-### Current Projects:
-- Visual Novel
-- UEFN Maps
+# Indie Developer & Trash Enthusiast
+Working on Unreal Engine
