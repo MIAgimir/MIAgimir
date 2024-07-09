@@ -2,7 +2,9 @@
 
 ## UE5 Development
 It's a private repository, but it's real I promise.
+
 ## CFX.RE Development
-I work with ox_core, so if you want anything else you'll need to learn to do it yourself. Also yes, I am back
+[Mesa Indigo](https://github.com/Mesa-Indigo) - Here is where all my resources are.
+
 ## Trash Enthusiast
-I like neat things
+I like neat things.
